@@ -39,9 +39,9 @@ file_to_write.close()
 print('\n')
 
 # Get credentials from the system
-USER_EMAIL = os.environ['zishanparwez786@gmail.com']
-MY_PASS = os.environ['1999@Aslam']
-MY_EMAIL = os.environ['zishanparwez786@gmail.com']
+USER_EMAIL = os.environ['']
+MY_PASS = os.environ['']
+MY_EMAIL = os.environ['']
   
 # Compose message
 msg = EmailMessage()
